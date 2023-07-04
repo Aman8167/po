@@ -1,0 +1,18 @@
+#menu-sum strong{
+
+color:black;
+
+}
+#menu-sum ul li{
+   text-align: center;
+   padding:5px;
+   width:650px;
+   background-color: silver;
+}
+#menu-sum li{
+    margin-left: 145px;;
+}
+#menu-sum ul li hr{
+    width:40px;
+    color:white;
+}
